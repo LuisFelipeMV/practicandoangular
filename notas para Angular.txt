@@ -1,0 +1,4 @@
+
+para versiones anteriores 16 o menos
+ng new nombre del proyecto  --standalone=false
+
